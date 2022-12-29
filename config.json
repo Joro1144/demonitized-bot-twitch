@@ -29,7 +29,7 @@
 	"pronouns": {
 		"#r00tkitt": "she/they",
 		"#treat": "he/him",
-		"#tianyivt": "he/him",
+		"#treat": "he/him",
 		"#demonitized_boi": "he/him",
 		"#reportcardsmc": "she/they",
 		"#conflicteddweet": "they/them",
@@ -44,6 +44,10 @@
 		"#sweetbug03":"she/they",
 		"#afrenchcat":"he/him",
 		"#chubbss_":"he/him"
+		"#el_xox": "Any (she/her preferred)",
+		"#kadunya": "he/him"
+		"#cheebicat": "she/her"
+		"#jsgplayz": "he/they"
 	},
 	"operation": {
 		"auth": {
@@ -166,6 +170,10 @@
 			"osteoporosis_x_anxiety",
 			"vlsaria",
 			"buzzflow69"
+			"jsgplayz"
+			"el_xox"
+			"kadunya"
+			"cheebiuat"
 		],
 		"blacklisted": [
 			"#quimbly3",
@@ -180,7 +188,7 @@
 		"debug-commands": false,
 		"normal-commands": true,
 		"awoo-mode": false,
-		"henzoid-custom": true,
+		"henzoid-custom": false,
 		"verdux-commands": true
 	},
 	"autoBanList": [
@@ -378,7 +386,7 @@
 		"bhustlin",
 		"boughtenrescue4",
 		"capillarybankruptcy9",
-		"dav3wolf",
+		"dav3wolf",anyivt
 		"diluvialarcheology0",
 		"elegantpharmacopoeia3",
 		"elmiesttoga9",
